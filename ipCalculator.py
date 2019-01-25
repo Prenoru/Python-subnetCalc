@@ -66,5 +66,5 @@ def netMask(cidr):
 		fill_res = [255, 0, 0, 0]
 		print(fill_res)
 			
-		
-netMask(8)
+a = input()		
+print(netMask(a))
